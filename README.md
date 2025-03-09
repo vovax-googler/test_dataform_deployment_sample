@@ -105,7 +105,7 @@ This workflow can also be expanded into a more robust CICD implementation - cons
 
 - Create the same triggers in each project, but specify the appropriate branch to use.
 
-- Have developers create feature branches off of prod and create changes. Merge the changes into dev to test, then into stage, then into production.
+- Have developers create feature branches off of prod and create changes. Merge the changes into dev to test, then into stage, then into  production.
 
 <img width="645" alt="image" src="https://user-images.githubusercontent.com/111666655/223487835-9c23389e-0a07-42ec-9539-fc9460df8771.png">
 
