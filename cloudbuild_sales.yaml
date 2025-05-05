@@ -14,7 +14,7 @@
 
 steps:
   ###########################################################
-  # Build and deploy BigQuery assets
+  # Build and deploy BigQuery assets vova test
   ###########################################################
   - id: build-sales
     name: dataformco/dataform
